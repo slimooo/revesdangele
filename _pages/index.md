@@ -60,13 +60,19 @@ Après une bonne nuit de sommeil, le moment gourmand du matin est arrivé. Vous 
 
 ### Un jardin pour se ressourcer
 
+![](https://lesrevesdangele.com/assets/2-2.jpg)
+
 <div class="gallery-box">
   <div class="gallery">
     <img src="https://lesrevesdangele.com/assets/1-2.jpg">
-    <img src="https://lesrevesdangele.com/assets/2-2.jpg">
-    <img src="https://lesrevesdangele.com/assets/3-2.jpg">
     <img src="https://lesrevesdangele.com/assets/4-2.jpg">
     <img src="https://lesrevesdangele.com/assets/5-1.jpg">
+  </div>
+</div>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://lesrevesdangele.com/assets/3-2.jpg">
     <img src="https://lesrevesdangele.com/assets/6-1.jpg">
   </div>
 </div>

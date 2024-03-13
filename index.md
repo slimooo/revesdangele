@@ -11,8 +11,8 @@ Se situant à mi-chemin de divers lieux touristiques de Bourgogne comme Vézelay
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://lesrevesdangele.com/assets/IMG_2854-1-min-1.jpg">
-    <img src="https://lesrevesdangele.com/assets/ecran.jpg">
+    <img src="/images/IMG_2854-1-min-1.jpg">
+    <img src="/images/ecran.jpg">
   </div>
 </div>
 
@@ -24,25 +24,25 @@ Notre maison d’hôtes est faite pour vous.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://lesrevesdangele.com/assets/1.jpg">
-    <img src="https://lesrevesdangele.com/assets/2.jpg">
-    <img src="https://lesrevesdangele.com/assets/6.jpg">
+    <img src="/images/1.jpg">
+    <img src="/images/2.jpg">
+    <img src="/images/6.jpg">
   </div>
 </div>
 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://lesrevesdangele.com/assets/3.jpg">
-    <img src="https://lesrevesdangele.com/assets/4.jpg">
-    <img src="https://lesrevesdangele.com/assets/5.jpg">
+    <img src="/images/3.jpg">
+    <img src="/images/4.jpg">
+    <img src="/images/5.jpg">
   </div>
 </div>
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://lesrevesdangele.com/assets/7.jpg">
-    <img src="https://lesrevesdangele.com/assets/8.jpg">
+    <img src="/images/7.jpg">
+    <img src="/images/8.jpg">
   </div>
 </div>
 
@@ -59,15 +59,15 @@ Le Wifi est disponible gratuitement et en illimité dans toute la maison.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://lesrevesdangele.com/assets/2-1.jpg">
-    <img src="https://lesrevesdangele.com/assets/3-1.jpg">
+    <img src="/images/2-1.jpg">
+    <img src="/images/3-1.jpg">
   </div>
 </div>
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://lesrevesdangele.com/assets/1-1.jpg">
-    <img src="https://lesrevesdangele.com/assets/4-1.jpg">
+    <img src="/images/1-1.jpg">
+    <img src="/images/4-1.jpg">
   </div>
 </div>
 
@@ -75,20 +75,20 @@ Après une bonne nuit de sommeil, le moment gourmand du matin est arrivé. Vous 
 
 ### Un jardin pour se ressourcer
 
-![](https://lesrevesdangele.com/assets/2-2.jpg)
+![](/images/2-2.jpg)
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://lesrevesdangele.com/assets/1-2.jpg">
-    <img src="https://lesrevesdangele.com/assets/4-2.jpg">
-    <img src="https://lesrevesdangele.com/assets/5-1.jpg">
+    <img src="/images/1-2.jpg">
+    <img src="/images/4-2.jpg">
+    <img src="/images/5-1.jpg">
   </div>
 </div>
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://lesrevesdangele.com/assets/3-2.jpg">
-    <img src="https://lesrevesdangele.com/assets/6-1.jpg">
+    <img src="/images/3-2.jpg">
+    <img src="/images/6-1.jpg">
   </div>
 </div>
 
@@ -99,7 +99,7 @@ Relaxez-vous dans notre jardin au style zen, proche du bassin d’ornement et de
 90 à 95€ basse saison et
 De 100 à 110€ haute saison.
 
-![](https://lesrevesdangele.com/assets/IMG_2712-1-min.JPG)
+![](/images/IMG_2712-1-min.JPG)
 
 ### Nous joindre & nous rejoindre
 
@@ -112,7 +112,9 @@ Notre maison est également accessible en train (gare de Coulanges-sur-Yonne), e
 Pour tout renseignement ou pour réserver une chambre, nous sommes disponibles par téléphone au [+33 6 83 51 63 73](tel:0033683516373) et par mail à pascal@lesrevesdangele.com
 
 33 route de Coulanges, 89480, Crain
+
 [Google Maps](https://www.google.com/maps/place/Les+r%C3%AAves+d'Ang%C3%A8le/@47.5289639,3.5442161,17z/data=!4m18!1m9!3m8!1s0x47ee2f9453405f73:0x797fd1ba442d4134!2zTGVzIHLDqnZlcyBkJ0FuZ8OobGU!5m2!4m1!1i2!8m2!3d47.5289639!4d3.5464101!3m7!1s0x47ee2f9453405f73:0x797fd1ba442d4134!5m2!4m1!1i2!8m2!3d47.5289639!4d3.5464101)
+
 [Waze](https://waze.com/ul/hu06w2sqkm)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2693.994818633331!2d3.5442160510380174!3d47.528963879077445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ee2f9453405f73%3A0x797fd1ba442d4134!2zTGVzIHLDqnZlcyBkJ0FuZ8OobGU!5e0!3m2!1sfr!2sfr!4v1618145367590!5m2!1sfr!2sfr" width="auto" height="auto" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2693.994818633331!2d3.5442160510380174!3d47.528963879077445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ee2f9453405f73%3A0x797fd1ba442d4134!2zTGVzIHLDqnZlcyBkJ0FuZ8OobGU!5e0!3m2!1sfr!2sfr!4v1618145367590!5m2!1sfr!2sfr" width="100%" height="auto" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

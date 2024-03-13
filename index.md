@@ -117,4 +117,4 @@ Pour tout renseignement ou pour réserver une chambre, nous sommes disponibles p
 
 [Waze](https://waze.com/ul/hu06w2sqkm)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2693.994818633331!2d3.5442160510380174!3d47.528963879077445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ee2f9453405f73%3A0x797fd1ba442d4134!2zTGVzIHLDqnZlcyBkJ0FuZ8OobGU!5e0!3m2!1sfr!2sfr!4v1618145367590!5m2!1sfr!2sfr" width="100%" height="auto" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2693.994818633331!2d3.5442160510380174!3d47.528963879077445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ee2f9453405f73%3A0x797fd1ba442d4134!2zTGVzIHLDqnZlcyBkJ0FuZ8OobGU!5e0!3m2!1sfr!2sfr!4v1618145367590!5m2!1sfr!2sfr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

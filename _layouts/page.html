@@ -17,13 +17,13 @@ layout: default
       </div>
 
       {% else page.id or page.path contains '_pages' or page.url contains '404' %}
-
-      {%if page.image %}
       <div class="col col-12">
         <div class="page__info">
           <h1 class="page__title">{{ page.title | escape }}</h1>
         </div>
       </div>
+      {%if page.image %}
+
       <div class="col col-12">
         <div class="page-image">
           <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">

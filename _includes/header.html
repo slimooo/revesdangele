@@ -24,32 +24,16 @@
               <li class="nav__item">
                 <a href="{{ site.baseurl }}/" class="nav__link">Accueil</a>
               </li>
-              {% for page in site.pages %}
-                {% unless page.name == 'tags.html' or page.name == '404.html' %}
-                  {% if page.title %}
-                  <li class="nav__item">
-                    <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
-                  </li>
-                  {% endif %}
-                {% endunless %}
-              {% endfor %}
-              {% if site.color_scheme == "auto" %}
-              <li class="nav__item nav__item-icon">
-                <div class="toggle-theme">
-                  <div class="toggle-moon" title="Enable dark mode"><i class="ion ion-ios-moon"></i></div>
-                  <div class="toggle-sun" title="Enable light mode"><i class="ion ion-ios-sunny"></i></div>
-                </div>
+              <li class="nav__item">
+                <a href="https://lesrevesdangele.com/histoire-de-famille/" class="nav__link">Une histoire de famille</a>
               </li>
-              {% elsif site.color_scheme == "light" or site.color_scheme == "dark" %}
-              {% else %}
-              <li class="nav__item nav__item-icon">
-                <div class="toggle-theme">
-                  <div class="toggle-moon" title="Enable dark mode"><i class="ion ion-ios-moon"></i></div>
-                  <div class="toggle-sun" title="Enable light mode"><i class="ion ion-ios-sunny"></i></div>
-                </div>
+              <li class="nav__item">
+                <a href="mailto:pascal@lesrevesdangele.com" class="nav__link">pascal@lesrevesdangele.com</a>
               </li>
-              {% endif %}
-            </ul>
+              <li class="nav__item">
+                <a href="tel:+33683516373" class="nav__link">+33 6 83 51 63 73</a>
+              </li>
+            </ul>            
           </div>
         </nav>
 

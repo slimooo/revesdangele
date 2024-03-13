@@ -96,7 +96,7 @@ Relaxez-vous dans notre jardin au style zen, proche du bassin d’ornement et de
 
 ### Notre tarification
 
-90 à 95€ en basse saison et de 100 à 110€ en haute saison.
+90 à 95€ en basse saison et de 100 à 110€ en haute saison. Ce tarif inclus le petit déjeuner. 
 
 ![](/images/IMG_2712-1-min.JPG)
 

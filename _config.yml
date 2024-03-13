@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: "Les rêves d'Angèle"
-logo: "https://lesrevesdangele.com/assets/logoblanc-1.svg" # You can add own logo. For example '/images/logo.png'.
+logo: 'https://lesrevesdangele.com/assets/logoblanc-1.svg' # You can add own logo. For example '/images/logo.png'.
 description: Menca personal blogging theme for Jekyll
 baseurl: "https://slimooo.github.io/menca" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

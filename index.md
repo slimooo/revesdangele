@@ -96,8 +96,7 @@ Relaxez-vous dans notre jardin au style zen, proche du bassin d’ornement et de
 
 ### Notre tarification
 
-90 à 95€ basse saison et
-De 100 à 110€ haute saison.
+90 à 95€ en basse saison et de 100 à 110€ en haute saison.
 
 ![](/images/IMG_2712-1-min.JPG)
 
@@ -109,7 +108,7 @@ En voiture, vous pourrez rejoindre Crain par Auxerre via la N151 , jusqu’à Co
 
 Notre maison est également accessible en train (gare de Coulanges-sur-Yonne), en seulement 2h30 de trajet depuis la gare de Paris-Bercy.
 
-Pour tout renseignement ou pour réserver une chambre, nous sommes disponibles par téléphone au [+33 6 83 51 63 73](tel:0033683516373) et par mail à pascal@lesrevesdangele.com
+Pour tout renseignement ou pour réserver une chambre, nous sommes disponibles par téléphone au [+33 6 83 51 63 73](tel:0033683516373) et par mail à [pascal@lesrevesdangele.com](pascal@lesrevesdangele.com)
 
 33 route de Coulanges, 89480, Crain
 

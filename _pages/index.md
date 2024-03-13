@@ -2,7 +2,7 @@
 layout: page
 title: Les rêves d'Angèle
 permalink: /about/
-image: 'https://lesrevesdangele.com/assets/IMG_2035-2-min.jpg'
+image: '/images/IMG_2035-2-min.jpg'
 ---
 #  Une maison d'hôtes au cœur de la Bourgogne
 

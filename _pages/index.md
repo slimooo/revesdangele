@@ -27,15 +27,27 @@ Notre maison d’hôtes est faite pour vous.
   <div class="gallery">
     <img src="https://lesrevesdangele.com/assets/1.jpg">
     <img src="https://lesrevesdangele.com/assets/2.jpg">
+    <img src="https://lesrevesdangele.com/assets/6.jpg">
+  </div>
+</div>
+
+
+<div class="gallery-box">
+  <div class="gallery">
     <img src="https://lesrevesdangele.com/assets/3.jpg">
     <img src="https://lesrevesdangele.com/assets/4.jpg">
     <img src="https://lesrevesdangele.com/assets/5.jpg">
-    <img src="https://lesrevesdangele.com/assets/6.jpg">
-    <img src="https://lesrevesdangele.com/assets/7.jpg">
-    <img src="https://lesrevesdangele.com/assets/8.jpg">
     <img src="https://lesrevesdangele.com/assets/9.jpg">
   </div>
 </div>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://lesrevesdangele.com/assets/7.jpg">
+    <img src="https://lesrevesdangele.com/assets/8.jpg">
+  </div>
+</div>
+
 
 Vous trouverez au rez-de-chaussée de la maison “Les rêves d’Angèle”, un salon spacieux et confortable doté d’une cheminée, d’un coin bureau, ainsi qu’un espace petit déjeuner convivial. L’escalier dessert 4 belles chambres spacieuses et confortables d’une vingtaine de mètres carrés. À la fois sobres et chics, décorées avec gout, elles vous apporteront le calme dont vous avez besoin.
 

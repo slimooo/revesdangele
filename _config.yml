@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Menca
+title: "Les rêves d'Angèle"
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Menca personal blogging theme for Jekyll
 baseurl: "https://slimooo.github.io/menca" # the subpath of your site, e.g. /blog

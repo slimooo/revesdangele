@@ -1,8 +1,8 @@
 ---
 layout: page
-image: '/images/01.jpg'
+title: Les rêves d'Angèle
+image: '/images/IMG_2035-2-min.jpg'
 ---
-
 #  Une maison d'hôtes au cœur de la Bourgogne
 
 Vous serez charmé par la maison d’hôtes “Les rêves d’Angèle”. Une belle et grande maison de de caractère de plus d’un siècle.
@@ -36,7 +36,6 @@ Notre maison d’hôtes est faite pour vous.
     <img src="https://lesrevesdangele.com/assets/3.jpg">
     <img src="https://lesrevesdangele.com/assets/4.jpg">
     <img src="https://lesrevesdangele.com/assets/5.jpg">
-    <img src="https://lesrevesdangele.com/assets/9.jpg">
   </div>
 </div>
 
@@ -60,9 +59,14 @@ Le Wifi est disponible gratuitement et en illimité dans toute la maison.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://lesrevesdangele.com/assets/1-1.jpg">
     <img src="https://lesrevesdangele.com/assets/2-1.jpg">
     <img src="https://lesrevesdangele.com/assets/3-1.jpg">
+  </div>
+</div>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://lesrevesdangele.com/assets/1-1.jpg">
     <img src="https://lesrevesdangele.com/assets/4-1.jpg">
   </div>
 </div>
